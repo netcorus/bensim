@@ -1,0 +1,16 @@
+LDI  3
+STA 15
+LDI  0
+ADD 15
+OUT  0
+JMP  3
+NOP  0
+NOP  0
+NOP  0
+NOP  0
+NOP  0
+NOP  0
+NOP  0
+NOP  0
+  0  0
+  0  0
