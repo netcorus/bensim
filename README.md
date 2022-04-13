@@ -1,3 +1,5 @@
+![Bensim screemshot]()
+
 - 👋 Hi, I’m @netcorus
 - 👀 Programing language
 - 🌱 I’m currently learning c
